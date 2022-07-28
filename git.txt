@@ -5,5 +5,3 @@ git commit -m "1v"
 
 
 git push origin master
-
-
